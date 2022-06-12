@@ -1,4 +1,4 @@
-.intro__list-item_style_regular {
+.intro__list-item_font-weight_regular {
     font-family: 'Inter', Arial, Helvetica, sans-serif;
     font-weight: 400;
     font-size: 12px;
@@ -7,7 +7,7 @@
 }
 
 @media screen and (max-width: 568px) {
-    .intro__list-item_style_regular {
+    .intro__list-item_font-weight_regular {
         font-size: 12px;
         line-height: 18px;
     }
