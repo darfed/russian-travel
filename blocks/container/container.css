@@ -1,0 +1,25 @@
+.container {
+    max-width: 1280px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 1140px) {
+    .container {
+        max-width: 1024px;
+    }
+}
+
+@media screen and (max-width: 984px) {
+    .container {
+        max-width: 768px;
+    }
+}
+
+
+@media screen and (max-width: 568px) {
+    .container {
+        max-width: 320px;
+    }
+}
