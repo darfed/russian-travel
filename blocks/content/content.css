@@ -5,12 +5,12 @@
 
 @media screen and (max-width: 984px) {
     .content {
-     row-gap: 88px;
+        row-gap: 88px;
     }
 }
 
 @media screen and (max-width: 568px) {
     .content {
-     row-gap: 64px;
+        row-gap: 64px;
     }
 }

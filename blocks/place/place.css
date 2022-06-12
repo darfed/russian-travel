@@ -37,8 +37,8 @@
             "website"
             "image"
             "paragraph";
-            row-gap: 32px;
-            column-gap: 0ch;
-            
+        row-gap: 32px;
+        column-gap: 0ch;
+
     }
 }

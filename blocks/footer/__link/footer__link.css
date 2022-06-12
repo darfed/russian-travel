@@ -11,6 +11,7 @@
 .footer__link:last-child {
     margin: 0;
 }
+
 .footer__link:hover {
     opacity: 0.8;
 }
@@ -18,7 +19,7 @@
 @media screen and (max-width: 568px) {
     .footer__link {
         font-size: 24px;
-        line-height: 24px;  
+        line-height: 24px;
     }
-    
+
 }
