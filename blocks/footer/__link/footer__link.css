@@ -6,8 +6,8 @@
     color: #FFFFFF;
     text-decoration: none;
     margin-right: 18px;
-    -webkit-font-smoothing: antialiased; 
-    text-rendering: optimizeLegibility; 
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
 }
 
 .footer__link:last-child {

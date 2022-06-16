@@ -6,8 +6,8 @@
     line-height: 28px;
     color: #FFFFFF;
     margin-right: 15px;
-    -webkit-font-smoothing: antialiased; 
-    text-rendering: optimizeLegibility; 
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
 }
 
 .header__lang-link:last-child {

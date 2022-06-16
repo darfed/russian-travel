@@ -4,8 +4,8 @@
     font-size: 12px;
     line-height: 18px;
     color: #fff;
-    -webkit-font-smoothing: antialiased; 
-    text-rendering: optimizeLegibility; 
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
 }
 
 @media screen and (max-width: 568px) {

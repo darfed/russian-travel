@@ -8,8 +8,8 @@
     line-height: 163%;
     color: #FFFFFF;
     margin-bottom: 26px;
-    -webkit-font-smoothing: antialiased; 
-    text-rendering: optimizeLegibility; 
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
 }
 
 .place__paragraph:last-child {
