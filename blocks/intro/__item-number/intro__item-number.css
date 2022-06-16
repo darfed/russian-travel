@@ -1,13 +1,15 @@
-.intro__list-item_font-weight_regular {
+.intro__item-number {
     font-family: 'Inter', Arial, Helvetica, sans-serif;
     font-weight: 400;
     font-size: 12px;
     line-height: 18px;
     color: #fff;
+    -webkit-font-smoothing: antialiased; 
+    text-rendering: optimizeLegibility; 
 }
 
 @media screen and (max-width: 568px) {
-    .intro__list-item_font-weight_regular {
+    .intro__item-number {
         font-size: 12px;
         line-height: 18px;
     }

@@ -9,6 +9,16 @@
     max-width: 720px;
     color: #FFFFFF;
     padding-top: 53px;
+    overflow: hidden;
+    -webkit-font-smoothing: antialiased; 
+    text-rendering: optimizeLegibility; 
+}
+
+
+@media screen and (max-width: 984px) {
+    .lead__title {
+        padding-top: 44px;
+    }
 }
 
 @media screen and (max-width: 568px) {

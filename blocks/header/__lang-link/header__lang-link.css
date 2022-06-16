@@ -5,12 +5,15 @@
     font-size: 24px;
     line-height: 28px;
     color: #FFFFFF;
+    margin-right: 15px;
+    -webkit-font-smoothing: antialiased; 
+    text-rendering: optimizeLegibility; 
 }
 
-.header__lang-link:nth-child(1) {
-    border-bottom: #FFFFFF 1px solid;
-    margin-right: 15px;
+.header__lang-link:last-child {
+    margin-right: 0;
 }
+
 
 .header__lang-link:hover {
     opacity: 0.8;

@@ -1,6 +1,6 @@
 .place__link {
     margin: 0;
-    font-family: 'Inter';
+    font-family: 'Inter', Arial, Helvetica, sans-serif;
     font-weight: 400;
     font-size: 18px;
     line-height: 22px;
@@ -8,6 +8,8 @@
     color: #FFFFFF;
     text-decoration: none;
     box-sizing: border-box;
+    -webkit-font-smoothing: antialiased; 
+    text-rendering: optimizeLegibility; 
 }
 
 .place__link:hover {

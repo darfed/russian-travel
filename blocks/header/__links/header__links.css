@@ -1,3 +1,4 @@
 .header__links {
-    align-self: center;
+    align-self: flex-end;
+    padding-bottom: 9px;
 }
